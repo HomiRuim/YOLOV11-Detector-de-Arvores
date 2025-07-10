@@ -3,6 +3,7 @@
 Trabalho feito para a disciplina de Introdução à Inteligência Artificial na Universidade de Brasília com o professor Dr. Dibio Leandro Borges
 
 Autores:
+
 Davi de Araújo Garcez Bueno - 211060586
 
 Célio Júnio de Freitas Eduardo - 211010350
