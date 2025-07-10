@@ -5,4 +5,4 @@ nas imagens.
 
 Arquivo ipynb: notebook jupyter executado no ambiente Google Colab configurado com a GPU T4
 runs/detect/train: arquivos resultantes da execução do ipynb, com métricas e gráficos, além das fotos do resultado do treinamento e validação do modelo no dataset customizado
-data: dataset customizado que foi convertido para o formato COCO para ser devidamente reconhecido pelo YOLOv11
+data: dataset original que foi convertido para o formato COCO para ser devidamente reconhecido pelo YOLOv11
