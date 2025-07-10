@@ -18,7 +18,12 @@ data: dataset original que foi convertido para o formato COCO para ser devidamen
 
 algumas fotos do resultado do nosso treinamento:
 
+Imagem 1:
 ![train_batch0](https://github.com/user-attachments/assets/5f69ac57-6fc6-4d1d-9f85-b8916f507809)
+
+Imagem 2:
 ![val_batch0_labels](https://github.com/user-attachments/assets/df020073-dcb6-440d-aa50-ebe9a362b7d2)
+
+Imagem 3:
 ![val_batch0_pred](https://github.com/user-attachments/assets/84f598ae-f1d2-47c6-9297-f849c8d3e137)
 
